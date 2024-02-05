@@ -1,5 +1,5 @@
 blueprint:
-  name: Uknown entity detection & notification
+  name: Unknown entity detection & notification
   description: Regularly test all entities' status to check for unknown.
   domain: automation
   source_url: https://github.com/josephjaskolski/Blueprints/blob/master/unavailable_entities_notification/unknown_entities_notification.yaml
